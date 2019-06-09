@@ -6,6 +6,8 @@ public class Test01 {
     }
     public void Test02(){
         int a=10;
+        int c=20;
         System.out.println(a);
+        System.out.println(c);
     }
 }
